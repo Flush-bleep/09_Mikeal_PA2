@@ -1,2 +1,2 @@
 # 09_Mikeal_PA2
-For School
+For School about How2 GIT hub
